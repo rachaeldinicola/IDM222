@@ -270,14 +270,12 @@ body {
     justify-content: center; }
 
   p.work {
-    margin-top: 1.5rem;
-    margin-bottom: 1.5rem;}
+    margin-bottom: 2rem;}
 }
 
 
 @media only screen and (max-width: 800px) and (min-width: 450px) {
-  
-.grid {
+  .grid {
     margin-top: 22rem;
     margin-left: 1.5rem;
     margin-right: 1.5rem; }
